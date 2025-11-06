@@ -7,4 +7,4 @@ Tecnologías utilizadas
 
 Para abrir index.html en el navegador tienes que ir a la carpeta donde se encuentra este archivo, hacer doble click y se abre automáticamente
 
-url: https://github.com/eliizax/Exercise_Unit5_website/new/main?readme=1
+url: https://eliizax.github.io/Exercise_Unit5_website/
